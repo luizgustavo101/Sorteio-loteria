@@ -1,5 +1,4 @@
 function gerar(totalPossibilidades, numerosSorteados) {
-      let numeroSorteado = parseInt(Math.random() * totalPossibilidades) + 1;
   let sorteio = [];
   while (sorteio.length != numerosSorteados) {
     let numeroSorteado = parseInt(Math.random() * totalPossibilidades) + 1;
