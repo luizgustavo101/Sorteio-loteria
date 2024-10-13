@@ -11,5 +11,4 @@ function gerar(totalPossibilidades, numerosSorteados) {
     }
   }
 }
-
 gerar(80, 6);
